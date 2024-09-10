@@ -1,14 +1,19 @@
 body{
-    margin: 0;
+    margin: 0 auto;
     max-width: 300px; 
     overflow: hidden;
-    min-height: 20px;
 }
 
 .wholeBody{
     padding: 5px;
     overflow-y: scroll;
-    max-height: 250px;
+
+}
+
+label {
+    color: rgb(253, 110, 110);
+    font-family: Calibri;
+    font-weight: 900;
 }
 
 /* L I S T */
